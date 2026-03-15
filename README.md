@@ -9,7 +9,7 @@
     🐱 Cat lover and have two cats <br>
     :sparkles: Favorite Languages: JavaScript, Java, Python, C, C++, SQL ... <br>
     :email:	emilywwyx@gmail.com <br>
-    :art: Portfolio: https://emilywwyx.github.io/portfolio/ <br>
+    :art: Portfolio: https://emilywwyx.github.io/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/emily-w-b70621254/ <br>
 
   </samp>
